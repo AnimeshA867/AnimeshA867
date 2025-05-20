@@ -1,3 +1,10 @@
+<a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB">
+  <img
+    src="https://raw.githubusercontent.com/AnimeshA867/AnimeshA867/main/Hero.png"
+    alt="Logo"
+  />
+</a>
+
 <h1 align="center">Hi 👋, I'm Animesh Acharya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
@@ -38,4 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnimeshA867&show_icons=true&locale=en" alt="AnimeshA867" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnimeshA867&" alt="AnimeshA867" /></p>
-
