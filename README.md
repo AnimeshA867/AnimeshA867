@@ -1,6 +1,6 @@
 <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB">
   <img
-    src="https://raw.githubusercontent.com/AnimeshA867/AnimeshA867/main/Hero.png"
+    src="https://raw.githubusercontent.com/AnimeshA867/AnimeshA867/main/HERO.png"
     alt="Logo"
   />
 </a>
